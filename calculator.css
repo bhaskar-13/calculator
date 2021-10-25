@@ -1,0 +1,23 @@
+/* .input_calculator{
+    border: 0px;
+} */
+
+table,td{
+    border: 1px solid crimson;
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+    font-size: -webkit-xxx-large;
+    font-style: italic;
+    color: chocolate;
+    border-collapse: collapse;
+}
+
+td{
+    width:30px;
+    height:30px;
+    text-align: center;
+}
+.textarea{
+    text-align: right;
+}
